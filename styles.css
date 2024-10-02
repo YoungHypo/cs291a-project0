@@ -3,6 +3,11 @@ body {
   font-size: 14px;
 }
 
+img {
+  width: 400;
+  height: 210;
+}
+
 table, th, td {
   border: 1px solid black;
 }

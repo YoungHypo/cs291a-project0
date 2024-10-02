@@ -3,13 +3,13 @@ body {
   font-size: 14px;
 }
 
-img {
-  width: 400;
-  height: 210;
+.ucsb-image {
+  width: 400px;
+  height: 210px;
 }
 
 table {
-    border-collapse: collapse;
+  border-collapse: collapse;
 }
 
 table, th, td {
